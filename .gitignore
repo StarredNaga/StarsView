@@ -1,0 +1,15 @@
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+vcpkg_installed/
+.vcpkg-root
+
+*.obj
+*.exe
+*.a
+*.dtb
+*.modmap
+
+Thumbs.db
+.DS_Store
